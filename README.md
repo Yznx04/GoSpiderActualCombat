@@ -4,3 +4,4 @@
 ## 笔记
 1. [第一章笔记](./chapter01/note.md)
 2. [第二章笔记](./chapter02/note.md)
+3. [第三章笔记](./chapter03/note.md)
