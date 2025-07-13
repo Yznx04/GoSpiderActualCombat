@@ -8,3 +8,4 @@
 4. [第四章笔记](./chapter04/note.md)
 5. [第五章笔记](./chapter05/note.md)
 6. [第六章笔记](./chapter06/note.md)
+7. [第七章笔记](./chapter07/note.md)
